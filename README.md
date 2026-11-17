@@ -1,307 +1,202 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/275322961?v=4" width="140" height="140" style="border-radius:50%;border:4px solid #8B5CF6;box-shadow:0 0 25px rgba(139,92,246,0.5);" alt="sarch-codelab"/>
-
-# <span style="background:linear-gradient(90deg,#8B5CF6,#F59E0B,#06B6D4);-webkit-background-clip:text;-webkit-text-fill-color:transparent;">InfiniHon</span>
-
-**Desarrollador FullStack Senior · Arquitecto de Soluciones Cloud · IA**
-
-<p align="center">
-  <i>&ldquo;Transformando la gestión empresarial a través de tecnología inteligente.&rdquo;</i>
-</p>
-
-<a href="https://github.com/sarch-codelab"><img src="https://img.shields.io/github/followers/sarch-codelab?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=8B5CF6"></a>
-<a href="https://github.com/sarch-codelab"><img src="https://img.shields.io/github/stars/sarch-codelab?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=F59E0B"></a>
-<img src="https://img.shields.io/badge/Honduras-%F0%9F%87%AD%F0%9F%87%B3-0051BA?style=for-the-badge">
-
-</div>
-
----
-
-<br>
-
-## 📈 Estadísticas de Perfil
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8B5CF6,55:6D28D9,100:06B6D4&text=Joseph%20S%C3%A1nchez&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=CTO%20%26%20AI%20Lead%20%C2%B7%20Fundador%20de%20InfiniHon&descAlignY=60&descSize=20&animation=fadeIn" width="100%" alt="Joseph Sánchez — CTO & AI Lead"/>
 
 <a href="https://github.com/sarch-codelab">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sarch-codelab&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarch-codelab&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=40&lines=Del+caos+al+control.;IA+aplicada+a+la+gesti%C3%B3n+empresarial.;SaaS+multi-tenant+%C2%B7+offline-first+%C2%B7+facturaci%C3%B3n+SAR.;Construido+desde+Honduras+para+Latinoam%C3%A9rica." alt="Typing animation"/>
 </a>
 
-</div>
+<br/>
 
-<br>
-
----
-
-## 👋 Sobre Mí
-
-Apasionado del **desarrollo de software a gran escala** con impacto real en el sector empresarial. Especializado en construir **plataformas SaaS multi-tenant**, **sistemas de facturación electrónica** y **asistentes con inteligencia artificial** para negocios de Latinoamérica.
-
-- 🌍 Con sede en **Honduras** 🇭🇳
-- 🧠 Fundador de **InfiniHon**
-- 🤖 IA aplicada a la gestión empresarial (Groq API, LLMs)
-- 🏗️ Arquitectura **offline-first** y **multi-tenant**
-- 📊 Facturación electrónica **SAR** (Honduras)
-- 🔐 Seguridad enterprise: 2FA, roles, RLS
-
-<br>
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🧠 Portal Pilot — ERP Inteligente Multi-Empresa
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>🚀 Plataforma SaaS Multi-Empresa con IA</b><br/><br/>
-        <span style="font-size:14px;">ERP comercial integral para pulperías, supermercados, distribuidoras y cadenas multi-sucursal con asistentes de IA en cada módulo.</span><br/><br/>
-        <a href="https://portal-pilot.vercel.app"><img src="https://img.shields.io/badge/VER_DEMO-EB5E4A?style=for-the-badge&logo=vercel&logoColor=white&color=8B5CF6"></a>
-        <a href="https://github.com/sarch-codelab/portalpilot"><img src="https://img.shields.io/badge/CÓDIGO-4A4A4A?style=for-the-badge&logo=github&logoColor=white"></a>
-      </td>
-      <td width="50%" align="center">
-        <b>✨ Características</b><br/><br/>
-        🧾 Facturación SAR · 🛒 POS con códigos de barras<br/>
-        📦 Inventario multi-bodega · 🤖 IA con Groq API<br/>
-        👥 CRM · 💰 Contabilidad · 👔 RRHH<br/>
-        🏢 Multi-tenant · 🔐 Seguridad enterprise<br/><br/>
-        <b>Stack:</b> Flutter · Node.js · Express · Supabase
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### 🛰️ Alerta Sula — Sistema de Alertas Hidrometeorológicas
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>🌊 Monitoreo Hidrometeorológico en Tiempo Real</b><br/><br/>
-        <span style="font-size:14px;">Sistema de alertas para la red hidrometeorológica de Honduras con simuladores interactivos.</span><br/><br/>
-        <a href="https://github.com/sarch-codelab/alerta-sula"><img src="https://img.shields.io/badge/CÓDIGO-4A4A4A?style=for-the-badge&logo=github&logoColor=white"></a>
-      </td>
-      <td width="50%" align="center">
-        <b>✨ Características</b><br/><br/>
-        🌧️ Alertas en tiempo real<br/>
-        🖥️ Simuladores interactivos (v1-v4)<br/>
-        📡 API serverless · ☁️ Despliegue Vercel
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### 📱 Portal Pilot App — Multi-plataforma
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>📲 Offline-First Multi-Plataforma</b><br/><br/>
-        <span style="font-size:14px;">Aplicación Flutter que funciona sin conexión con sincronización en la nube.</span><br/><br/>
-        <a href="https://github.com/sarch-codelab/portalpilot-app"><img src="https://img.shields.io/badge/CÓDIGO-4A4A4A?style=for-the-badge&logo=github&logoColor=white"></a>
-      </td>
-      <td width="50%" align="center">
-        <b>✨ Características</b><br/><br/>
-        📲 Android · iOS · Web · Windows<br/>
-        💾 SQLite / Drift local<br/>
-        🔄 Cola offline · Upsert idempotente<br/>
-        🤖 IA integrada
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-### 🌐 InfiniHon Honduras — Web Oficial
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <b>🧡 Página Web Oficial de InfiniHon</b><br/><br/>
-        <span style="font-size:14px;">Plataforma corporativa que representa la marca InfiniHon en Honduras.</span><br/><br/>
-        <a href="https://github.com/sarch-codelab/infinihon"><img src="https://img.shields.io/badge/CÓDIGO-4A4A4A?style=for-the-badge&logo=github&logoColor=white"></a>
-      </td>
-      <td width="50%" align="center">
-        <b>✨ Características</b><br/><br/>
-        🏢 Sitio corporativo<br/>
-        🎨 Diseño premium<br/>
-        📈 Presencia digital de marca
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### Backend & Cloud
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
-<img src="https://img.shields.io/badge/NocoDB-0078D4?style=for-the-badge&logo=nocodb&logoColor=white">
-
-### Frontend & Móvil
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-
-### Inteligencia Artificial
-
-<img src="https://img.shields.io/badge/Groq-FF6B35?style=for-the-badge&logo=groq&logoColor=white">
-<img src="https://img.shields.io/badge/Llama-8B5CF6?style=for-the-badge&logo=meta&logoColor=white">
-<img src="https://img.shields.io/badge/Mixtral-FF6B35?style=for-the-badge&logo=groq&logoColor=white">
-
-### Herramientas
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Codemagic-34B7F1?style=for-the-badge&logo=codemagic&logoColor=white">
+<a href="https://portal-pilot.vercel.app"><img src="https://img.shields.io/badge/Portal_Pilot-Ver_demo-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/sarch-codelab?tab=followers"><img src="https://img.shields.io/github/followers/sarch-codelab?label=Seguidores&style=for-the-badge&logo=github&logoColor=white&color=06B6D4&labelColor=0D1117"/></a>
+<a href="https://github.com/sarch-codelab?tab=repositories"><img src="https://img.shields.io/badge/Repositorios-12-F59E0B?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/></a>
+<img src="https://img.shields.io/badge/Honduras-%F0%9F%87%AD%F0%9F%87%B3-0051BA?style=for-the-badge&labelColor=0D1117"/>
 
 </div>
 
-<br>
+<br/>
 
----
+> *"Transformando la gestión empresarial a través de tecnología inteligente."*
 
-## 💡 Capacidades Principales
+Soy **CTO y AI Lead**: arquitecto y desarrollador FullStack. Diseño plataformas **SaaS multi-tenant**, sistemas de **facturación electrónica** y **asistentes de IA** que se integran a cada módulo del negocio, pensados para la realidad de Latinoamérica: conectividad inestable, normativa local y equipos pequeños que necesitan hacer mucho.
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <div style="font-size:40px;">🤖</div>
-        <b>Inteligencia Artificial</b><br/>
-        <span style="font-size:13px;">Asistentes virtuales con IA</span>
-      </td>
-      <td align="center" width="33%">
-        <div style="font-size:40px;">🏢</div>
-        <b>Multi-Tenant</b><br/>
-        <span style="font-size:13px;">Aislamiento de datos por empresa</span>
-      </td>
-      <td align="center" width="33%">
-        <div style="font-size:40px;">📴</div>
-        <b>Offline-First</b><br/>
-        <span style="font-size:13px;">Funciona sin internet</span>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <div style="font-size:40px;">🧾</div>
-        <b>Facturación SAR</b><br/>
-        <span style="font-size:13px;">Cumplimiento Honduras</span>
-      </td>
-      <td align="center">
-        <div style="font-size:40px;">🔐</div>
-        <b>Seguridad Enterprise</b><br/>
-        <span style="font-size:13px;">2FA · roles · RLS</span>
-      </td>
-      <td align="center">
-        <div style="font-size:40px;">⚙️</div>
-        <b>Automatización RPA</b><br/>
-        <span style="font-size:13px;">Procesos comerciales</span>
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
 
-<br>
+## ⚡ En qué me enfoco
 
----
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🤖 IA aplicada</h3>
+      Asistentes con LLMs en cada módulo, vía <b>Groq API</b> y modelos locales para operar sin depender de la nube.
+    </td>
+    <td width="33%" valign="top">
+      <h3>🏢 Multi-tenant</h3>
+      Aislamiento de datos por empresa con <b>Row Level Security</b> sobre PostgreSQL.
+    </td>
+    <td width="33%" valign="top">
+      <h3>📴 Offline-first</h3>
+      Apps que siguen vendiendo sin internet: cola offline y <b>upsert idempotente</b> al reconectar.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🧾 Facturación SAR</h3>
+      Cumplimiento de la normativa fiscal de Honduras integrado al flujo de venta.
+    </td>
+    <td valign="top">
+      <h3>🔐 Seguridad enterprise</h3>
+      <b>2FA</b>, roles y permisos, y trazabilidad de cada operación.
+    </td>
+    <td valign="top">
+      <h3>⚙️ Automatización RPA</h3>
+      Procesos comerciales automatizados con evidencia verificable.
+    </td>
+  </tr>
+</table>
 
-## 👥 Equipo Ejecutivo
+<br/>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <b>CTO & IA Lead</b><br/>
-        Joseph Sanchez<br/>
-        <i>FullStack, IA Cloud, Groq API</i>
-      </td>
-      <td align="center" width="33%">
-        <b>CEO & Fundador</b><br/>
-        Amy Fajardo<br/>
-        <i>Arquitectura, Cloud Infra, Estrategia</i>
-      </td>
-      <td align="center" width="33%">
-        <b>Head of Security</b><br/>
-        Sofia Guzman<br/>
-        <i>Ciberseguridad, 2FA, Auth</i>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <b>Desarrollo & Automatización</b><br/>
-        Jose Carcamo<br/>
-        <i>Backend API, RPA, Trazabilidad</i>
-      </td>
-      <td align="center" colspan="2">
-        — 
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
----
-
-## 🏆 Reconocimiento & Contribuciones
+## 🚀 Proyecto principal
 
 <div align="center">
 
-[![Made in Honduras](https://img.shields.io/badge/Made%20in-Honduras-0051BA?style=for-the-badge&logo=github)](https://github.com/sarch-codelab)
-[![Open Source](https://img.shields.io/badge/Open%20Source-Love-10B981?style=for-the-badge&logo=github)](https://github.com/sarch-codelab)
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-581A87?style=for-the-badge&logo=github)](https://github.com/sponsors/sarch-codelab)
+### 🧠 Portal Pilot
+**Plataforma SaaS con IA para la gestión de negocios**<br/>
+*"Del caos al control"*
+
+<a href="https://portal-pilot.vercel.app"><img src="https://img.shields.io/badge/VER_DEMO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/sarch-codelab/portalpilot"><img src="https://img.shields.io/badge/C%C3%93DIGO-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
-<br>
+ERP comercial integral para **pulperías, supermercados, distribuidoras y cadenas multi-sucursal**, con un asistente de IA en cada módulo.
 
----
+| | Módulo | Qué resuelve |
+|---|---|---|
+| 🛒 | **POS** | Ventas con lector de códigos de barras |
+| 📦 | **Inventario** | Multi-bodega y multi-sucursal |
+| 🧾 | **Facturación** | Electrónica SAR (Honduras) |
+| 👥 | **CRM** | Clientes y seguimiento comercial |
+| 💰 | **Contabilidad** | Control financiero integrado |
+| 👔 | **RRHH** | Gestión de personal |
+| 🤖 | **Asistentes IA** | Ayuda contextual en cada módulo |
 
-## 📫 Contacto
+### 🏗️ Arquitectura
+
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#1E1B2E','primaryBorderColor':'#8B5CF6','primaryTextColor':'#F5F3FF','lineColor':'#06B6D4','fontFamily':'monospace'}}}%%
+flowchart LR
+  A["📱 App Flutter<br/>Android · iOS · Web · Windows"] -->|escribe siempre local| B[("SQLite · Drift<br/>offline-first")]
+  B -->|cola offline<br/>upsert idempotente| C["⚙️ API<br/>Node.js + Express"]
+  C --> D[("Supabase · PostgreSQL<br/>multi-tenant + RLS")]
+  C --> E["🤖 Capa de IA<br/>Groq · LLMs"]
+  F["🔐 2FA · Roles"] -.-> C
+```
+
+<br/>
+
+## 🧪 Otros proyectos
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📱 Portal Pilot App</h3>
+      App <b>Flutter offline-first</b> para Android, iOS, Web y Windows. Base local con SQLite/Drift, cola offline y sincronización en la nube con IA integrada.<br/><br/>
+      <a href="https://github.com/sarch-codelab/portalpilot-app"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-181717?style=flat-square&logo=github"/></a>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ Alerta Sula</h3>
+      Sistema de alertas en tiempo real para la red hidrometeorológica de Honduras, con simuladores interactivos (v1–v4) y API serverless.<br/><br/>
+      <a href="https://github.com/sarch-codelab/alerta-sula"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-181717?style=flat-square&logo=github"/></a>
+      <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Serverless-06B6D4?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🌐 InfiniHon Honduras</h3>
+      Sitio web oficial de la marca: presencia digital corporativa con diseño cuidado.<br/><br/>
+      <a href="https://github.com/sarch-codelab/infinihon"><img src="https://img.shields.io/badge/Ver_c%C3%B3digo-181717?style=flat-square&logo=github"/></a>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td valign="top">
+      <h3>📂 Todo el código</h3>
+      12 repositorios públicos y creciendo.<br/><br/>
+      <a href="https://github.com/sarch-codelab?tab=repositories"><img src="https://img.shields.io/badge/Explorar_repositorios-8B5CF6?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🛠️ Stack
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sarch-codelab)
-[![Portal Pilot](https://img.shields.io/badge/Portal%20Pilot-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://portal-pilot.vercel.app)
-[![Made in Honduras](https://img.shields.io/badge/Honduras-%F0%9F%87%AD%F0%9F%87%B3-0051BA?style=for-the-badge)]()
+<img src="https://skillicons.dev/icons?i=flutter,dart,nodejs,express,supabase,postgres,vercel,html,css,js,git,github&perline=12" alt="Stack tecnológico"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Llama-8B5CF6?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mixtral-FF6B35?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Codemagic-34B7F1?style=for-the-badge&logo=codemagic&logoColor=white"/>
+<img src="https://img.shields.io/badge/NocoDB-0078D4?style=for-the-badge&logoColor=white"/>
 
 </div>
 
----
+<br/>
+
+## 📊 Actividad
 
 <div align="center">
 
-### 🌟 Gracias por visitar
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=sarch-codelab&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Estadísticas"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarch-codelab&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="Lenguajes"/>
 
-*Innovación · Calidad · Excelencia*
+<br/>
 
-**Construido con pasión en Honduras 🇭🇳 para el mundo**
+<img src="https://streak-stats.demolab.com?user=sarch-codelab&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=F59E0B&currStreakLabel=06B6D4" alt="Racha"/>
 
-<img src="https://komarev.com/ghpvc/?username=sarch-codelab&color=8B5CF6&style=for-the-badge" style="width:160px;"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarch-codelab&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Gráfico de contribuciones"/>
+
+</div>
+
+<br/>
+
+## 👥 Equipo
+
+<div align="center">
+
+| 🧠 **Joseph Sánchez** | 🎯 **Amy Fajardo** | 🛡️ **Sofia Guzman** | ⚙️ **Jose Carcamo** |
+|:---:|:---:|:---:|:---:|
+| **CTO & AI Lead** | **CEO & Fundador** | **Head of Security** | **Desarrollo & RPA** |
+| FullStack · IA Cloud · Groq API | Arquitectura · Cloud · Estrategia | Ciberseguridad · 2FA · Auth | Backend API · RPA · Trazabilidad |
+
+</div>
+
+<br/>
+
+## 📫 Hablemos
+
+¿Quieres automatizar tu negocio, probar Portal Pilot o colaborar? Escríbeme o échale un vistazo a la demo.
+
+<div align="center">
+
+<a href="https://portal-pilot.vercel.app"><img src="https://img.shields.io/badge/Portal_Pilot-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/sarch-codelab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/>
+
+<sub>Innovación · Calidad · Excelencia &nbsp;|&nbsp; Construido con pasión en Honduras 🇭🇳 para el mundo</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,50:6D28D9,100:8B5CF6&section=footer" width="100%" alt=""/>
 
 </div>
